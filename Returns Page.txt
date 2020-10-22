@@ -1,0 +1,189 @@
+<style>
+  
+</style>
+
+
+<div class="container-fluid" style="background-color:#C63B3D; color:white;padding:90px;">
+<div class="row">
+  <div class="col-sm-12 text-center">
+    <h2 class="text-center">HOW CAN WE HELP?</h2>
+  </div>
+    <div class="row">
+      <div class="col-sm-2"></div>
+    	<div class="col-sm-8 text-center">
+   <form class="search-form search-bar__form" action="/search?design_theme_id=113409032344&amp;_sc=1&amp;frame_token=qnbmC6vncv4hgTvNzYnLSuPDBXsdf-ML_49Ppf0dGwNKKZafjncZjGjZdCTP2acluHwvEu4yf-rdU9eVZ-EAtXf8mXaYjwH2i5mUWu1FoQ4Wh6fdgeGjoizyxwEUN3EnssgvnRstTpGBdmrgK3-lPg%3D%3D" method="get" role="search">
+        <div class="search-form__input-wrapper">
+          <input type="text" name="q" placeholder="Type your question here..." role="combobox" aria-autocomplete="list" aria-owns="predictive-search-results" aria-expanded="false" aria-label="Search" aria-haspopup="listbox" class="search-form__input search-bar__input" data-predictive-search-drawer-input="" autocorrect="off" autocomplete="off" autocapitalize="off" spellcheck="false">
+          <input type="hidden" name="options[prefix]" value="last" aria-hidden="true">
+          <div class="predictive-search-wrapper predictive-search-wrapper--drawer" data-predictive-search-mount="drawer"></div>
+        <div style="position: absolute !important; overflow: hidden; clip: rect(0 0 0 0); height: 1px; width: 1px; margin: -1px; padding: 0; border: 0;" data-search-announcer="" aria-live="polite" aria-atomic="true"></div></div>
+
+        <button class="search-bar__submit search-form__submit" type="submit" data-search-form-submit="">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+          <span class="icon__fallback-text">Submit</span>
+        </button>
+      
+        <input type="hidden" name="design_theme_id" value="113409032344">
+        <input type="hidden" name="frame_token" value="qnbmC6vncv4hgTvNzYnLSuPDBXsdf-ML_49Ppf0dGwNKKZafjncZjGjZdCTP2acluHwvEu4yf-rdU9eVZ-EAtXf8mXaYjwH2i5mUWu1FoQ4Wh6fdgeGjoizyxwEUN3EnssgvnRstTpGBdmrgK3-lPg==">
+      </form>
+  </div>
+      <div class="col-sm-2"></div>
+  </div>
+</div>
+</div>
+
+<div class="container" style="margin-top:35px;">
+  <div class="row">
+    <div class="col-sm-12">
+      	{% section 'rich-text7' %}
+<div class="faq">
+        <div class="tab">
+            <input type="checkbox" id="tab1" class="tab-toggle">
+            <label for="tab1" class="tab-label">How Long Does Delivery Takes?</label>
+            <div class="tab-content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate sint, porro
+                modi facilis, repellat saepe exercitationem ipsum omnis nobis beatae quae architecto quia eaque pariatur
+                nostrum et. Excepturi, ducimus. Magnam.</div>
+        </div>
+        <div class="tab">
+            <input type="checkbox" id="tab2" class="tab-toggle">
+            <label for="tab2" class="tab-label">Contact Free Delivery</label>
+            <div class="tab-content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate sint, porro
+                modi facilis, repellat saepe exercitationem ipsum omnis nobis beatae quae architecto quia eaque pariatur
+                nostrum et. Excepturi, ducimus. Magnam.</div>
+        </div>
+  <div class="tab">
+            <input type="checkbox" id="tab3" class="tab-toggle">
+            <label for="tab3" class="tab-label">Where Is My Order?</label>
+            <div class="tab-content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate sint, porro
+                modi facilis, repellat saepe exercitationem ipsum omnis nobis beatae quae architecto quia eaque pariatur
+                nostrum et. Excepturi, ducimus. Magnam.</div>
+        </div>
+  <div class="tab">
+            <input type="checkbox" id="tab4" class="tab-toggle">
+            <label for="tab4" class="tab-label">Europe Delivery Options</label>
+            <div class="tab-content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate sint, porro
+                modi facilis, repellat saepe exercitationem ipsum omnis nobis beatae quae architecto quia eaque pariatur
+                nostrum et. Excepturi, ducimus. Magnam.</div>
+        </div>
+  <div class="tab">
+            <input type="checkbox" id="tab5" class="tab-toggle">
+            <label for="tab5" class="tab-label">What If I Have Not Received Part Of My Order? </label>
+            <div class="tab-content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate sint, porro
+                modi facilis, repellat saepe exercitationem ipsum omnis nobis beatae quae architecto quia eaque pariatur
+                nostrum et. Excepturi, ducimus. Magnam.</div>
+        </div>
+  <div class="tab">
+            <input type="checkbox" id="tab6" class="tab-toggle">
+            <label for="tab6" class="tab-label">Do I Have To Pay Custom Charges On My Order?</label>
+            <div class="tab-content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate sint, porro
+                modi facilis, repellat saepe exercitationem ipsum omnis nobis beatae quae architecto quia eaque pariatur
+                nostrum et. Excepturi, ducimus. Magnam.</div>
+        </div>
+  <div class="tab">
+            <input type="checkbox" id="tab7" class="tab-toggle">
+            <label for="tab7" class="tab-label">Choose A Delivery Date - Hoe Does It Work?</label>
+            <div class="tab-content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate sint, porro
+                modi facilis, repellat saepe exercitationem ipsum omnis nobis beatae quae architecto quia eaque pariatur
+                nostrum et. Excepturi, ducimus. Magnam.</div>
+        </div>
+  <div class="tab">
+            <input type="checkbox" id="tab8" class="tab-toggle">
+            <label for="tab8" class="tab-label">Click & Collect</label>
+            <div class="tab-content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate sint, porro
+                modi facilis, repellat saepe exercitationem ipsum omnis nobis beatae quae architecto quia eaque pariatur
+                nostrum et. Excepturi, ducimus. Magnam.</div>
+        </div>
+  <div class="tab">
+            <input type="checkbox" id="tab9" class="tab-toggle">
+            <label for="tab9" class="tab-label">Next Day Delivery - How Does It Work?</label>
+            <div class="tab-content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate sint, porro
+                modi facilis, repellat saepe exercitationem ipsum omnis nobis beatae quae architecto quia eaque pariatur
+                nostrum et. Excepturi, ducimus. Magnam.</div>
+        </div>
+  <div class="tab">
+            <input type="checkbox" id="tab10" class="tab-toggle">
+            <label for="tab10" class="tab-label">Uk Saver Delivery - When Will I Receive My Order?</label>
+            <div class="tab-content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate sint, porro
+                modi facilis, repellat saepe exercitationem ipsum omnis nobis beatae quae architecto quia eaque pariatur
+                nostrum et. Excepturi, ducimus. Magnam.</div>
+        </div>
+    </div>
+
+    </div>
+  </div>
+</div>
+
+
+<div class="container text-center" style="margin-top:50px;">
+    <div class="row">
+      <div class="col-sm-3">
+        <div class="cont-home"><a href="https://designeroptical.myshopify.com/pages/returns">
+          <img src="https://cdn.shopify.com/s/files/1/0498/3544/2328/files/return.png?v=1602497460" style="width:60px;margin-top:20px;">
+               </a> <b><h3 class="fontbold">Returns</h3></b>
+        <p>ReturnsReturnsReturns<br>ReturnsReturnsReturnsReturns<br>ReturnsReturnsReturns</p>
+        </div>
+  
+        </div>
+      <div class="col-sm-3">
+        <div class="cont-home"><a href="https://designeroptical.myshopify.com/pages/shipping">
+          <img src="https://cdn.shopify.com/s/files/1/0498/3544/2328/files/shipping_e97494b1-cd6f-45fd-aab0-e6b912656155.png?v=1602498113" style="width:60px;margin-top:20px;">
+          </a><b> <h3 class="fontbold">Shipping</h3></b>
+        <p>ReturnsReturnsReturns<br>ReturnsReturnsReturns<br>ReturnsReturnsReturns</p>
+      </div>
+      </div>
+      <div class="col-sm-3">
+        <div class="cont-home"><a href="https://designeroptical.myshopify.com/pages/single-vision-prescription">
+          <img src="https://cdn.shopify.com/s/files/1/0498/3544/2328/files/visible.png?v=1602498281" style="width:60px;margin-top:20px;">
+          </a><b> <h3 class="fontbold">Single Vision Prescription</h3></b>
+        <p>ReturnsReturnsReturns<br>ReturnsReturns<br>ReturnsReturns</p>
+      </div>
+      </div>
+      <div class="col-sm-3">
+        <div class="cont-home"><a href="https://designeroptical.myshopify.com/pages/vision-insurance">
+          <img src="https://cdn.shopify.com/s/files/1/0498/3544/2328/files/shield-vector-png-9.png?v=1602498465" style="width:60px;margin-top:20px;">
+          </a><b><h3 class="fontbold">Vision Insurance</h3></b>
+        <p>ReturnsReturnsReturns<br>ReturnsReturnsReturns<br>ReturnsReturnsReturns</p>
+      </div>
+      </div>
+    </div>
+    
+     <div class="row" style="margin-top:25px;">
+      <div class="col-sm-3">
+        <div class="cont-home"><a href="https://designeroptical.myshopify.com/pages/buying-glasses-online">
+          <img src="https://cdn.shopify.com/s/files/1/0498/3544/2328/files/clipart-glasses-nerd-18_1.png?v=1602498665" style="width:60px;margin-top:20px;">
+          </a><b> <h3 class="fontbold">Buying Prescription Glasses Online</h3></b>
+        <p>ReturnsReturnsReturns<br>ReturnsReturnsReturnsReturns<br>ReturnsReturnsReturns</p>
+        </div>
+        </div>
+      <div class="col-sm-3">
+        <div class="cont-home"><a href="https://designeroptical.myshopify.com/pages/lens-material">
+          <img src="https://cdn.shopify.com/s/files/1/0498/3544/2328/files/eye-1915455_1280_1.png?v=1602498864" style="width:60px;margin-top:44px;">
+          </a><b> <h3 class="fontbold">Lens Materials</h3></b>
+        <p>ReturnsReturnsReturns<br>ReturnsReturnsReturns<br>ReturnsReturnsReturns</p>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <div class="cont-home"><a href="https://designeroptical.myshopify.com/pages/fsa-funds">
+          <img src="https://cdn.shopify.com/s/files/1/0498/3544/2328/files/money-bag.png?v=1602498966" style="width:60px;margin-top:20px;">
+          </a><b><h3 class="fontbold">Using Your Fsa And Hsa Funds</h3></b>
+        <p>ReturnsReturnsReturns<br>ReturnsReturns<br>ReturnsReturns</p>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <div class="cont-home"><a href="https://designeroptical.myshopify.com/pages/contact-us">
+          <img src="https://cdn.shopify.com/s/files/1/0498/3544/2328/files/img_157633.png?v=1602499040" style="width:60px;margin-top:20px;">
+          </a>  <b> <h3 class="fontbold">Contact Us</h3></b>
+        <p>ReturnsReturnsReturns<br>ReturnsReturnsReturns<br>ReturnsReturnsReturns</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="container-fluid" style="background-color:#C63B3D;padding:90px;margin-top:40px;">
+  <div class="row">
+    <div class="col-sm-12" style="color:white;text-align:center;">
+      <h3>Can't find what you are looking for?</h3>
+      <button class="btn-contact">Contact Us</button>
+    </div>
+  </div>
+</div>
